@@ -1,0 +1,26 @@
+{
+  "cheque_bounce": {
+    "notice_title": "LEGAL NOTICE UNDER SECTION 138 OF THE NEGOTIABLE INSTRUMENTS ACT, 1881",
+    "legal_sections_cited": ["Section 138 of Negotiable Instruments Act 1881", "Section 420 IPC / BNS Section 318(4)"],
+    "notice_period_days": 15,
+    "template_structure": "BY REGISTERED POST A.D. / SPEED POST\n\nTo,\n[RECIPIENT_NAME]\n[RECIPIENT_ADDRESS]\n\nSUBJECT: DEMAND NOTICE UNDER SECTION 138 OF THE NEGOTIABLE INSTRUMENTS ACT, 1881 FOR DISHONOUR OF CHEQUE.\n\nSir/Madam,\n\nUnder instructions from and on behalf of my client, [SENDER_NAME], resident of [SENDER_ADDRESS], I hereby serve upon you this Legal Notice as under:\n\n1. That you issued Cheque bearing No. [CHEQUE_NO] for a sum of Rs. [AMOUNT] towards discharge of your legally enforceable debt/liability.\n2. That when my client presented the said cheque for encashment, it was returned unpaid by the bank with the memo dated [MEMO_DATE] stating reason 'INSUFFICIENT FUNDS'.\n3. That [FACTS_SUMMARY].\n\nNOW THEREFORE, I hereby call upon you to make payment of the aforesaid amount of Rs. [AMOUNT] to my client within FIFTEEN (15) DAYS from the date of receipt of this notice, failing which my client shall be constrained to initiate criminal proceedings under Section 138 of NI Act against you in the competent court of law entirely at your risk, cost and consequences.\n\nSd/-\n[SENDER_NAME]"
+  },
+  "landlord_deposit": {
+    "notice_title": "LEGAL DEMAND NOTICE FOR IMMEDIATE REFUND OF SECURITY DEPOSIT",
+    "legal_sections_cited": ["BNS Section 316 / IPC Section 406 (Criminal Breach of Trust)", "State Rent Control Act"],
+    "notice_period_days": 15,
+    "template_structure": "BY REGISTERED POST / EMAIL\n\nTo,\n[RECIPIENT_NAME] (Landlord)\n[RECIPIENT_ADDRESS]\n\nSUBJECT: DEMAND NOTICE FOR IMMEDIATE REFUND OF SECURITY DEPOSIT AMOUNTING TO RS. [AMOUNT].\n\nDear Sir/Madam,\n\nI am serving this notice upon you regarding the premises leased by me at [RECIPIENT_ADDRESS].\n\n1. I vacated the subject premises on [VACATE_DATE] after handing over keys in good condition.\n2. In terms of our tenancy agreement, an interest-free security deposit of Rs. [AMOUNT] is fully refundable to me upon handover.\n3. Despite repeated requests and reminders, you have wrongfully withheld the deposit amount without any legal justification.\n4. [FACTS_SUMMARY].\n\nYOU ARE HEREBY CALLED UPON to refund the full security deposit of Rs. [AMOUNT] along with interest @ 12% p.a. within 15 DAYS of receipt of this notice, failing which I shall initiate civil litigation for recovery and criminal proceedings under Section 316 BNS / Section 406 IPC for Criminal Breach of Trust.\n\nSd/-\n[SENDER_NAME]"
+  },
+  "salary_demand": {
+    "notice_title": "LEGAL NOTICE FOR RECOVERY OF UNPAID SALARY AND FULL & FINAL SETTLEMENT DUES",
+    "legal_sections_cited": ["Section 73 of Indian Contract Act 1872", "Shops & Commercial Establishments Act"],
+    "notice_period_days": 15,
+    "template_structure": "BY REGISTERED POST / EMAIL\n\nTo,\n[RECIPIENT_NAME] (Employer/Management)\n[RECIPIENT_ADDRESS]\n\nSUBJECT: DEMAND NOTICE FOR RELEASE OF OUTSTANDING SALARY AND FULL & FINAL DUES OF RS. [AMOUNT].\n\nSir/Madam,\n\n1. I was employed with your organization [RECIPIENT_NAME] in the capacity of [DESIGNATION] from [START_DATE] to [END_DATE].\n2. I rendered continuous service and fulfilled all contractual obligations. My employment stood separated on [END_DATE].\n3. As per statutory rules and employment contract, my Full and Final settlement amounting to Rs. [AMOUNT] was due within 30 days.\n4. [FACTS_SUMMARY].\n\nTHEREFORE, you are requested to release my pending dues of Rs. [AMOUNT] into my bank account within 15 DAYS. In case of non-compliance, I will file a Labour Court complaint and civil suit for recovery along with 18% interest and damages for mental harassment.\n\nSd/-\n[SENDER_NAME]"
+  },
+  "consumer_complaint": {
+    "notice_title": "PRE-LITIGATION LEGAL NOTICE BEFORE CONSUMER FORUM FOR DEFICIENCY OF SERVICE",
+    "legal_sections_cited": ["Section 2(7) & Section 35 of Consumer Protection Act 2019", "Consumer Protection E-Commerce Rules 2020"],
+    "notice_period_days": 15,
+    "template_structure": "To,\n[RECIPIENT_NAME]\n[RECIPIENT_ADDRESS]\n\nSUBJECT: NOTICE FOR DEFICIENCY OF SERVICE AND DEMAND FOR FULL REFUND OF RS. [AMOUNT] WITH COMPENSATION.\n\nSir/Madam,\n\n1. I purchased [PRODUCT_SERVICE] from your company/platform vide Order/Invoice No. [INVOICE_NO] dated [DATE] for Rs. [AMOUNT].\n2. The product/service delivered was defective/substandard and failed to conform to promised specifications.\n3. [FACTS_SUMMARY].\n\nI hereby demand that you process a FULL REFUND of Rs. [AMOUNT] along with Rs. 10,000 as compensation for inconvenience within 15 DAYS, failing which I will file a formal complaint before the District Consumer Disputes Redressal Commission.\n\nSd/-\n[SENDER_NAME]"
+  }
+}

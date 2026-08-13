@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bns_318_cheating",
+    "act_title": "Bharatiya Nyaya Sanhita (BNS) 2023 / IPC Sec 420",
+    "section_code": "BNS Section 318(4) / IPC Section 420",
+    "title": "Cheating and Dishonestly Inducing Delivery of Property",
+    "content": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. Applicable to online scams, financial fraud, fake business investments, and failure to deliver promised goods after taking advance money.",
+    "category": "financial",
+    "keywords": ["cheating", "fraud", "scam", "money", "advance", "deceived", "fake", "investment", "420", "bns 318"],
+    "source_name": "India Code (indiacode.nic.in)",
+    "official_citation": "BNS Act No. 45 of 2023, Ministry of Law & Justice, Govt. of India",
+    "source_url": "https://www.indiacode.nic.in"
+  },
+  {
+    "id": "bns_316_breach_of_trust",
+    "act_title": "Bharatiya Nyaya Sanhita (BNS) 2023 / IPC Sec 406",
+    "section_code": "BNS Section 316 / IPC Section 406",
+    "title": "Criminal Breach of Trust",
+    "content": "Whoever being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, commits criminal breach of trust. Applicable when landlords refuse to refund security deposits, employers withhold employee provident funds/salary dues, or bailed assets are wrongfully retained.",
+    "category": "property",
+    "keywords": ["breach of trust", "landlord", "security deposit", "deposit refund", "entrusted", "withholding", "salary", "rent", "tenant"],
+    "source_name": "India Code (indiacode.nic.in)",
+    "official_citation": "BNS Act No. 45 of 2023, Legislative Dept, Govt. of India",
+    "source_url": "https://www.indiacode.nic.in"
+  },
+  {
+    "id": "ni_act_138_cheque_bounce",
+    "act_title": "Negotiable Instruments Act 1881",
+    "section_code": "NI Act Section 138",
+    "title": "Dishonour of Cheque for Insufficiency of Funds",
+    "content": "Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money is returned by the bank unpaid, owing to insufficiency of funds or exceeding arrangements, such person shall be deemed to have committed an offence punishable with imprisonment up to 2 years or fine up to twice the cheque amount. Prerequisite: Formal Legal Notice must be sent within 30 days of cheque bounce memo, giving 15 days time to pay.",
+    "category": "financial",
+    "keywords": ["cheque", "check", "bounce", "dishonour", "insufficient funds", "bank memo", "138", "demand notice", "payment overdue"],
+    "source_name": "India Code (indiacode.nic.in)",
+    "official_citation": "Act No. 26 of 1881, India Code Portal",
+    "source_url": "https://www.indiacode.nic.in"
+  },
+  {
+    "id": "it_act_66d_cyber_fraud",
+    "act_title": "Information Technology Act 2000",
+    "section_code": "IT Act Section 66D",
+    "title": "Punishment for Cheating by Personation by using Computer Resource",
+    "content": "Whoever by means of any communication device or computer resource cheats by personating, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine up to one lakh rupees. Applies to phishing, UPI fraud, fake customer care calls, unauthorized credit card charges, and online identity theft. Victims should immediately dial 1930 Cyber Helpline.",
+    "category": "cyber",
+    "keywords": ["cyber", "online fraud", "upi", "phishing", "otps", "bank scam", "credit card", "hacked", "1930", "personation", "computer"],
+    "source_name": "National Cyber Crime Portal (cybercrime.gov.in)",
+    "official_citation": "IT Act No. 21 of 2000, MeitY, Govt. of India",
+    "source_url": "https://cybercrime.gov.in"
+  },
+  {
+    "id": "consumer_act_2_7_defective_goods",
+    "act_title": "Consumer Protection Act 2019",
+    "section_code": "Consumer Protection Act Sec 2(7) & Sec 35",
+    "title": "Deficiency of Service and Unfair Trade Practice",
+    "content": "A consumer can file a complaint before the District Consumer Disputes Redressal Commission against any seller, service provider, or e-commerce platform for defective products, deficiency of service, refusal of legitimate refund, or misleading advertisements. E-Commerce Rules 2020 mandate that platforms cannot levy unfair cancellation charges or delay valid return refunds beyond stipulated timelines.",
+    "category": "consumer",
+    "keywords": ["consumer", "defective", "refund", "e-commerce", "amazon", "flipkart", "shopping", "damaged product", "warranty", "deficiency of service", "1915"],
+    "source_name": "National Consumer Helpline (consumerhelpline.gov.in)",
+    "official_citation": "Consumer Protection Act No. 35 of 2019, Dept. of Consumer Affairs",
+    "source_url": "https://consumerhelpline.gov.in"
+  },
+  {
+    "id": "contract_act_73_breach",
+    "act_title": "Indian Contract Act 1872",
+    "section_code": "Contract Act Section 73",
+    "title": "Compensation for Loss or Damage Caused by Breach of Contract",
+    "content": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach. Applicable to non-payment of salary, non-delivery of corporate services, and vendor default.",
+    "category": "employment",
+    "keywords": ["contract", "breach", "damages", "compensation", "salary", "termination", "vendor", "agreement", "notice period", "non-payment"],
+    "source_name": "India Code (indiacode.nic.in)",
+    "official_citation": "Act No. 9 of 1872, Ministry of Law & Justice",
+    "source_url": "https://www.indiacode.nic.in"
+  },
+  {
+    "id": "rera_18_builder_delay",
+    "act_title": "Real Estate (Regulation and Development) Act 2016",
+    "section_code": "RERA Section 18",
+    "title": "Return of Amount and Compensation for Delayed Possession",
+    "content": "If the promoter fails to complete or is unable to give possession of an apartment, plot, or building in accordance with the terms of the agreement for sale, he shall be liable on demand to the allottee to return the amount received by him in respect of that apartment with prescribed interest and compensation as specified under RERA.",
+    "category": "property",
+    "keywords": ["rera", "builder", "flat", "possession", "delay", "property", "real estate", "refund", "apartment", "allottee"],
+    "source_name": "Ministry of Housing & Urban Affairs",
+    "official_citation": "RERA Act No. 16 of 2016, Govt. of India",
+    "source_url": "https://www.indiacode.nic.in"
+  },
+  {
+    "id": "bnss_173_fir_procedure",
+    "act_title": "Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023 / CrPC Sec 154",
+    "section_code": "BNSS Section 173 / CrPC Section 154",
+    "title": "Information in Cognizable Cases (Registration of FIR)",
+    "content": "Every information relating to the commission of a cognizable offence, if given orally or in writing to an officer in charge of a police station, shall be reduced to writing and registered as a First Information Report (FIR). In cognizable cases (like cyber extortion, physical assault, theft above threshold, forgery), police are bound to register an FIR without prior court sanction.",
+    "category": "criminal",
+    "keywords": ["fir", "police station", "cognizable", "complaint", "crpc 154", "bnss 173", "crime", "investigation", "zero fir"],
+    "source_name": "India Code (indiacode.nic.in)",
+    "official_citation": "BNSS Act No. 46 of 2023, Legislative Dept, Govt. of India",
+    "source_url": "https://www.indiacode.nic.in"
+  }
+]
