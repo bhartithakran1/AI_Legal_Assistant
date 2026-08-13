@@ -1,7 +1,5 @@
 ⚖️ AI Legal Assistant (Indian Law - Bilingual English & Hindi RAG)
 
-> **Placement-Ready Full-Stack RAG Application** cd
-
 Nyay AI is a modern, full-stack AI legal assistant that simplifies complex Indian legal concepts (BNS 2023, IPC 1860, BNSS 2023, IT Act 2000, Consumer Protection Act 2019, NI Act Section 138, Indian Contract Act) into plain-language explanations in **English and Hindi (हिंदी)**.
 
 ---
